@@ -1,0 +1,61 @@
+.btnsize{
+  width: 350px;
+}
+.columns{
+  /* width: 260px; */
+  height: 200px;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 40px 32px 0;
+  background-color: #090c14;
+}
+img a{
+  text-decoration: none;
+  color: grey;
+}
+.mainoverview{
+  position: relative;
+  padding: 375px 0 110px;
+  background: url(overview-bg.svg);
+  background-size: cover;
+  text-align: center;
+}
+.footer{
+  position: relative;
+  
+
+  background: url(footer-bg.svg);
+  background-size: cover;
+
+}
+.arrow img{
+  margin-top: -23px;
+  z-index: 10;
+}
+.diamond i{
+  
+  font-size: 70px;
+  margin-top: -36px;
+}
+.diamond .arrow{
+
+  position:absolute;
+  bottom: px;
+  z-index: 20;
+}
+.diamond{
+  position: relative;
+  margin-bottom: 50px;
+}
+.texter a{
+  text-decoration: none;
+}
+.bit-but button{
+  width: 350px;
+}
+.bitcoin-image{
+  margin-left: 300px;
+}
+
+
+
